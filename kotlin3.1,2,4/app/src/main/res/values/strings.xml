@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Assignment</string>
+    <string name="hello">Hello World!</string>
+    <string name="settings_mi">Settings</string>
+    <string name="refresh_mi">Refresh</string>
+    <string name="stop_message">Stop.</string>
+</resources>

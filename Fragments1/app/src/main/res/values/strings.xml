@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Fragments1</string>
+    <string name="edit_text_hint">Enter something</string>
+    <string name="submit_button_text">Submit</string>
+    <string name="fragment_two_title">Fragment Two</string>
+    <string name="fragment_one_title">Fragment One</string>
+</resources>

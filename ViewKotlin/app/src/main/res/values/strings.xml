@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ViewKotlin</string>
+    <string name="hello">Hello World, MyActivity!</string>
+</resources>
